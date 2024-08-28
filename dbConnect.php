@@ -1,8 +1,8 @@
 <!-- データベース接続 -->
 <?php
 $dsn = "mysql:dbname=mrkmkrn_db;host=mysql1.php.starfree.ne.jp;charset=utf8";
-$userName = "mrkmkrn_user";
-$password = "Karin2835";
+$userName = "*****";
+$password = "*****";
 
 try {
     $dbh = new PDO($dsn, $userName, $password);  //PDOというクラスを用いて接続する
