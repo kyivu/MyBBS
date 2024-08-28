@@ -1,6 +1,6 @@
 <!-- データベース接続 -->
 <?php
-$dsn = "mysql:dbname=mrkmkrn_db;host=mysql1.php.starfree.ne.jp;charset=utf8";
+$dsn = "***********";
 $userName = "*****";
 $password = "*****";
 
